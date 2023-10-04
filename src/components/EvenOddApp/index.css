@@ -1,0 +1,51 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: aliceblue;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+.add-container {
+  background-image: linear-gradient(to top, #ff6e7f, #bfe9ff);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  border: 0px none;
+  border-radius: 10px;
+  width: 50%;
+}
+.heading {
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 36px;
+  color: #0f172a;
+  text-align: center;
+}
+.number-identity {
+  font-family: 'Roboto';
+  font-size: 16px;
+  color: #334155;
+  text-align: center;
+}
+.bottom-des {
+  font-family: 'Roboto';
+  font-size: 10px;
+  color: #1e293b;
+  text-align: center;
+}
+.in-bt {
+  font-family: 'Roboto';
+  font-size: 16px;
+  color: #334155;
+  text-align: center;
+  border: 5px solid;
+  width: 120px;
+  height: 35px;
+  border-radius: 10px;
+  background-color: aliceblue;
+}
